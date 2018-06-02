@@ -22,4 +22,5 @@ I graduated my Software Engineering degree at Nagoya University in Japan.
 
 ## QR code
 QR code for this page.
-![qrcode](https://github.com/shtnkgm/about/blob/master/image/qrcode.png)
+
+<img src="https://github.com/shtnkgm/about/blob/master/image/qrcode.png" alt="QR code" width="50%">
