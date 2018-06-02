@@ -14,6 +14,7 @@ https://itunes.apple.com/developer/shota-nakagami/id457011383
 I graduated my Software Engineering degree at Nagoya University in Japan.
 
 ## Links
+ - https://twitter.com/shtnkgm
  - https://github.com/shtnkgm
  - https://stargzr.net/users/shtnkgm
  - https://qiita.com/shtnkgm
