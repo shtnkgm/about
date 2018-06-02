@@ -19,3 +19,7 @@ I graduated my Software Engineering degree at Nagoya University in Japan.
  - https://qiita.com/shtnkgm
  - https://stackoverflow.com/users/7285819/shota-nakagami  
  - https://ja.stackoverflow.com/users/19889/shota-nakagami
+
+## QR code
+QR code for this page.
+![qrcode](https://github.com/shtnkgm/about/blob/master/image/qrcode.png)
