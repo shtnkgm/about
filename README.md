@@ -4,7 +4,9 @@ I have developed extensively for the iOS platform since 2011.
 
 ## Personal Works
 I have released some camera applications on AppStore.
-https://itunes.apple.com/developer/shota-nakagami/id457011383
+
+ - [My Portfolio](https://shtnkgm.github.io/)
+ - [AppStore / Shota Nakagami](https://itunes.apple.com/developer/shota-nakagami/id457011383)
 
 ## Presentations
  - https://speakerdeck.com/shtnkgm
