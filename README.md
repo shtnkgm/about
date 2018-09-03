@@ -1,4 +1,6 @@
-# About Shota Nakagami
+# about
+Shota Nakagami
+
 I'm a Software Engineer of @yahoojapan and an individual iOS Developer.
 I have developed extensively for the iOS platform since 2011.
 
@@ -12,16 +14,12 @@ I have released some camera applications on AppStore.
  - https://speakerdeck.com/shtnkgm
  - https://github.com/shtnkgm/Presentations
 
-## University
-I graduated my Software Engineering degree at Nagoya University in Japan.
-
-## Links
- - https://twitter.com/shtnkgm
+## Output
  - https://github.com/shtnkgm
- - https://stargzr.net/users/shtnkgm
  - https://qiita.com/shtnkgm
- - https://stackoverflow.com/users/7285819/shota-nakagami  
- - https://ja.stackoverflow.com/users/19889/shota-nakagami
+ 
+## Activity
+ - https://twitter.com/shtnkgm
  - https://connpass.com/user/shtnkgm/
 
 ## QR code
