@@ -1,8 +1,8 @@
 # about
 Shota Nakagami
 
-I'm a Software Engineer of @yahoojapan and an individual iOS Developer.
-I have developed extensively for the iOS platform since 2011.
+ - a Software Engineer of @yahoojapan
+ - developed extensively for the iOS platform since 2011
 
 ## Personal Works
 I have released some camera applications on AppStore.
@@ -12,15 +12,18 @@ I have released some camera applications on AppStore.
 
 ## Presentations
  - https://speakerdeck.com/shtnkgm
- - https://github.com/shtnkgm/Presentations
 
-## Output
+## Activities
  - https://github.com/shtnkgm
  - https://qiita.com/shtnkgm
- 
-## Activity
  - https://twitter.com/shtnkgm
- - https://connpass.com/user/shtnkgm/
+
+## Education
+Bachelor of Engineering, Major: Information Science, March 2012, Nagoya University
+
+## Licenses and Certifications
+ - TOEIC Score 800, March 2014
+ - Applied Information Technology Engineer Examination, June 2014
 
 ## QR code
 QR code for this page.
