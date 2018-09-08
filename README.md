@@ -1,8 +1,9 @@
 # about
 Shota Nakagami
 
- - a Software Engineer of @yahoojapan
- - developed extensively for the iOS platform since 2011
+ - A Software Engineer of @yahoojapan
+ - Fluent in Swift and Objective-C
+ - Developed extensively for the iOS platform since 2011
 
 ## Personal Works
 I have released some camera applications on AppStore.
@@ -19,7 +20,7 @@ I have released some camera applications on AppStore.
  - https://twitter.com/shtnkgm
 
 ## Education
-Bachelor of Engineering, Major: Information Science, March 2012, Nagoya University
+Bachelor of Engineering, Major: Information Science, Nagoya University (2012)
 
 ## Licenses and Certifications
  - TOEIC Score 800, March 2014
