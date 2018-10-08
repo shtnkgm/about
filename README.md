@@ -4,8 +4,8 @@
 </div>
 
 ## about
-
- - A Software Engineer of @yahoojapan
+ - Shota Nakagami (@shtnkgm)
+ - A Software Engineer of [@yahoojapan](https://github.com/yahoojapan)
  - Fluent in Swift and Objective-C
  - Developed extensively for the iOS platform since 2011
 
