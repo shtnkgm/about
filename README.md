@@ -1,5 +1,12 @@
-# about
+<div style="text-align: center;">
+【中央寄せにする文章を記述】
+</div>
+<div style="margin-right:auto; margin-left:auto;">
+a
 <img src="https://github.com/shtnkgm/about/blob/master/image/icon_circle_200.png" width="100px">
+</div>
+
+## about
 Shota Nakagami
 
  - A Software Engineer of @yahoojapan
