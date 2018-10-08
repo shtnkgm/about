@@ -1,9 +1,9 @@
 <div align="center">
     <img src="https://github.com/shtnkgm/about/blob/master/image/icon_circle_200.png" width="50px">
+    <p>Shota Nakagami</p>
 </div>
 
 ## about
-Shota Nakagami
 
  - A Software Engineer of @yahoojapan
  - Fluent in Swift and Objective-C
