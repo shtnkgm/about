@@ -17,6 +17,7 @@ I have released some camera applications on AppStore.
 
 ## oss
  - [ImageTransition](https://github.com/shtnkgm/ImageTransition) - iOS Library for smooth animation of images during transitions.
+ - [FaceCrawler](https://github.com/shtnkgm/FaceCrawler) - Python script to crawl people's images and crop face areas
 
 ## presentations
  - [Speaker Deck @shtnkgm](https://speakerdeck.com/shtnkgm)
