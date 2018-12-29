@@ -35,6 +35,9 @@ Bachelor of Engineering, Major: Information Science, Nagoya University (2012)
  - TOEIC Score 800, March 2014
  - Applied Information Technology Engineer Examination, June 2014
 
+## contact
+ - shtnkgm@gmail.com
+
 ## qr code
 QR code for this page.
 
