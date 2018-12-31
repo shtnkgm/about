@@ -26,6 +26,7 @@ I have released some camera applications on AppStore.
 ## activities
  - [Github @shtnkgm](https://github.com/shtnkgm)
  - [Qiita @shtnkgm](https://qiita.com/shtnkgm)
+ - [note @shtnkgm](https://note.mu/shtnkgm)
  - [Twitter @shtnkgm](https://twitter.com/shtnkgm)
 
 ## education
