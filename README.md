@@ -1,13 +1,13 @@
 <div align="center">
     <img src="https://github.com/shtnkgm/about/blob/master/image/icon_circle_200.png" width="50px">
-    <p>Shota Nakagami</p>
+    <p>Shota Nakagami<br><a href="https://github.com/shtnkgm">@shtnkgm</a></p>
 </div>
 
 ## about
- - Shota Nakagami ([@shtnkgm](https://github.com/shtnkgm))
  - A Software Engineer of [@yahoojapan](https://github.com/yahoojapan)
  - Fluent in Swift and Objective-C
  - Developed extensively for the iOS platform since 2011
+ - Bachelor of Engineering, Major: Information Science, Nagoya University (2012)
 
 ## personal works
 I have released some camera applications on AppStore.
@@ -28,9 +28,6 @@ I have released some camera applications on AppStore.
  - [Qiita @shtnkgm](https://qiita.com/shtnkgm)
  - [note @shtnkgm](https://note.mu/shtnkgm)
  - [Twitter @shtnkgm](https://twitter.com/shtnkgm)
-
-## education
-Bachelor of Engineering, Major: Information Science, Nagoya University (2012)
 
 ## licenses and certifications
  - TOEIC Score 800, March 2014
