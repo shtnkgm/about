@@ -38,6 +38,7 @@ Bachelor of Engineering, Major: Information Science, Nagoya University (2012)
 
 ## contact
  - shtnkgm@gmail.com
+ - [Twitter DM](https://twitter.com/shtnkgm)
 
 ## qr code
 QR code for this page.
