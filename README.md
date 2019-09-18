@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/shtnkgm/about/blob/master/image/icon.png" width="50px">
-    <p>Shota Nakagami<br><a href="https://github.com/shtnkgm">@shtnkgm</a></p>
+    <p><a href="https://github.com/shtnkgm">@shtnkgm</a></p>
 </div>
 
 ## about
