@@ -13,7 +13,7 @@
 I have released some camera applications on AppStore.
 
  - [My Portfolio](https://shtnkgm.github.io/)
- - [AppStore / Shota Nakagami](https://itunes.apple.com/developer/shota-nakagami/id457011383)
+ - [AppStore](https://itunes.apple.com/developer/shota-nakagami/id457011383)
 
 ## oss
  - [ImageTransition](https://github.com/shtnkgm/ImageTransition) - iOS Library for smooth animation of images during transitions.
