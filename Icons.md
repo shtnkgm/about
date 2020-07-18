@@ -1,6 +1,5 @@
+# Icons
 
-## Color Variations
-
-|normal|maccha|
-|:-:|:-:|
-|![](./image/icon.png)|![](./image/maccha.png)|
+|normal|maccha|photo|
+|:-:|:-:|:-:|
+|<img src="./image/icon.png" width="200px">|<img src="./image/maccha.png" width="200px">|<img src="./image/icon_square_400.png" width="200px">|
