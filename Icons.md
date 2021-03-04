@@ -1,8 +1,8 @@
 # Icons
 ## Original
 
-|photo|normal|maccha|
-|:-:|:-:|:-:|
+|photo|normal|maccha|mono|
+|:-:|:-:|:-:|:-:|
 |<img src="./image/icon_square_400.png" width="160px">|<img src="./image/icon.png" width="160px">|<img src="./image/maccha.png" width="160px">|<img src="./image/mono.png" width="160px">|
 
 ## Color Variation
