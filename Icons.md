@@ -17,6 +17,5 @@
 |<img src="./image/icon_padding_red.png" width="160px">|<img src="./image/icon_padding_blue.png" width="160px">|<img src="./image/icon_padding_green.png" width="160px">|<img src="./image/icon_padding_yellow.png" width="160px">|
 
 pixel art: https://neutralx0.net/tools/dot3/
-color scheme: https://www.materialui.co/colors
 
-<span style="font-size:2em;">🥃</span>
+color scheme: https://www.materialui.co/colors
